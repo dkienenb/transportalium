@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "transportalium:self_removing_block" }
+    }
+}

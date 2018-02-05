@@ -1,0 +1,47 @@
+transportalium stuff:
+
+	ore (dropped from ender dragon when killed by a snowball)
+	ingot (smelted from ore with furnace, crafted from nuggets, crafted from a block, dropped from transportalium golems, very rarely dropped from transportalium zombies, skeletons, spiders, and creepers)
+	nugget (crafted from micronuggets, crafted from an ingot, rarely dropped from transportalium zombies, skeletons, spiders, and creepers)
+	micronugget (crafted from a nugget, dropped from transportalium zombies, skeletons, spiders, and creepers)
+	block (crafted from ingots)
+
+	helmet (crafted {("iii","i i"," p ") i = ingot, p = potion of night vision}) [night vision]
+	chestplate (crafted {("iei","iii","iii") i = ingot, e = electra}) [flight]
+	leggings (crafted {("iii","iwi","iwi") i = ingot, w = water bucket}) [fire resistance]
+	boots (crafted {("fef","ifi","ifi") i = ingot, f = feather, e = ender pearl}) [never take fall damage]
+	sword (crafted {("i","i","s") i = ingot, s = stick}) [everything you kill adds 0.01 dmg to your sword, starts with 1 dmg]
+	pickaxe (crafted {("iii"," s "," s ") i = ingot, s = stick}) [mines obsidian like it was stone, used to mine transportalium]
+	axe (crafted {("ii","si","s ") i = ingot, s = stick}) [increases chance of saplings and apples dropping from leaves]
+	hoe (crafted {("ii","s ","s ") i = ingot, s = stick}) [turns dirt into hydrated farmland]
+	shovel (crafted {("i","s","s") i = ingot, s = stick}) [silk touch]
+	bow (crafted {(" is","i s"," is") i = ingot, s = string}) [doesn't consume any arrows at all, increased damage]
+	arrow (crafted {("i","s","f") i = ingot, s = stick, f = feather}) [flame, can combine with a splash or lingering potion]
+
+	bucket (crafted {("i i","i i","iii") i = ingot}) [can hold 20 blocks of liquid]
+	fishing rod (crafted {("  i"," is","i s") i = ingot, s = stick}) [catches fish 3x as quick]
+
+	apple (crafted {("iii","iai","iii") i = ingot, a = apple}) [gives the same effects as an enchanted golen apple, restores health, food and saturation bars ]
+
+	crafting table
+	furnace
+	hopper
+	anvil 
+	enchanting table
+	beacon
+	chest
+	sign
+	lamp
+	torch
+	boat
+	rail
+	farmland
+	
+	picksword
+	pick-axe
+	
+	golem
+	zombie
+	skeleton
+	creeper
+	spider

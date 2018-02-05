@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "transportalium:blocks/cobblestone_generator"
+    }
+}

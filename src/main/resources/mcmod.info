@@ -1,0 +1,12 @@
+[{
+  "modid": "transportalium",
+  "name": "Transportalium",
+  "description": "Anything that I can imagine",
+  "version": "1.0.0.5",
+  "mcversion": "1.10.2",
+  "logoFile": "assets/transportalium/textures/items/transportalium_ingot.png",
+  "url": "https://github.com/dkienenb/transportalium",
+  "updateJSON": "https://github.com/dkienenb/transportalium",
+  "authorList": ["David Kienenberger"],
+  "credits": "I'd like to thank my mother and father."
+}]

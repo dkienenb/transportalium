@@ -1,0 +1,7 @@
+{
+    "parent": "block/orientable_vertical",
+    "textures": {
+        "front": "transportalium:blocks/block_breaker_front",
+        "side": "transportalium:blocks/block_breaker_side"
+    }
+}

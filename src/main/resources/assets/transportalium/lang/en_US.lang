@@ -1,0 +1,27 @@
+item.transportalium_ingot.name=§9Transportalium Ingot§r
+item.cooked_egg.name=Cooked Egg
+item.green_eggs_and_ham.name=§aGreen§r Eggs and Ham
+item.toast.name=Toast
+item.rainbowItem.name=Rainbow Item
+item.icicle.name=Icicle
+item.apple_pie.name=Apple Pie
+item.subtraction_stew.name=Subtraction Stew
+item.transportalium_sword.name=§9Transportalium Sword§r
+
+tile.transportalium_block.name=§9Transportalium Block§r
+tile.timer.name=Timer
+tile.ender_pearl_block.name=Ender Pearl Block
+tile.ghast_tear_block.name=Ghast Tear Block
+tile.cobblestone_generator.name=Cobblestone Generator
+tile.rainbow_block.name=§cR§6a§ei§an§9b§1o§5w
+tile.self_removing_block.name=Self-Removing Block
+tile.block_breaker.name=Block Breaker
+tile.tick_spreader.name=Block Tick Spreader
+tile.self_removing_block2.name=Self-Removing Block 2
+tile.block_update_to_block_tick_converter.name=Block Update to Block Tick converter
+tile.missing_texture_block.name=Missing Texture Block
+
+enchantment.level.1000=M
+enchantment.level.100=C
+
+itemGroup.Transportalium=Transportalium

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "transportalium:blocks/block_update_to_block_tick_converter_top",
+        "side": "transportalium:blocks/block_update_to_block_tick_converter_side"
+    }
+}

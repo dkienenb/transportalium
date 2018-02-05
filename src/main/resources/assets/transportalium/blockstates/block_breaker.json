@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=down":  { "model": "transportalium:block_breaker_vertical", "x": 180 },
+        "facing=up":    { "model": "transportalium:block_breaker_vertical" },
+        "facing=north": { "model": "transportalium:block_breaker" },
+        "facing=south": { "model": "transportalium:block_breaker", "y": 180 },
+        "facing=west":  { "model": "transportalium:block_breaker", "y": 270 },
+        "facing=east":  { "model": "transportalium:block_breaker", "y": 90 }
+    }
+}
